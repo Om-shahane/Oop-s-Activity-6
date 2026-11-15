@@ -6,7 +6,7 @@
 |---|---|
 | **Name** | Om Shahane |
 | **Class** | [S.Y. B.Tech] |
-| **Subject** | [Object Oriented Programing in Cpp] |
+| **Subject** | [Object Oriented Programming in Cpp] |
 | **ZPRN** | [125UAD1093] |
 | **Div** | [A] |
 | **Topic** | Bus Ticket Booking System |
